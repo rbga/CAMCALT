@@ -1,5 +1,5 @@
 # CAMCALT - Complex Animal Movement Capture and Live Transmission
-<img src="https://github.com/rbga/CAMCALT/assets/75168756/da957696-42fb-4374-9681-9680f4005885" alt="Image Alt Text" width="350" height="250">
+<img src="https://github.com/rbga/CAMCALT/assets/75168756/da957696-42fb-4374-9681-9680f4005885" alt="Image Alt Text" width="700" height="400">
 
 
 ## Introduction
